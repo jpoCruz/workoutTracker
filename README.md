@@ -7,4 +7,4 @@ Esse é o meu trabalho final para a disciplina de LDDM.
 
 
 Preview do app no youtube: https://youtu.be/xqkmyU3SFDI
-![](https://i.ibb.co/yFjyHTH/mockup.png)
+![](https://i.ibb.co/wLCnnk7/mockup.png)
