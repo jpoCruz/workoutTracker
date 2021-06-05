@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376160058188",
+    "project_id": "workout-65c58",
+    "storage_bucket": "workout-65c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376160058188:android:c760c4d549bfb129526de9",
+        "android_client_info": {
+          "package_name": "com.lddm.workout_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376160058188-eeso2grncnrnps5uj90bjvh4vtvvd75f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrhthaEx_gbx6PH6bAoc4HTQHPoPgia64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376160058188-eeso2grncnrnps5uj90bjvh4vtvvd75f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
