@@ -7,3 +7,4 @@ Esse é o meu trabalho final para a disciplina de LDDM.
 
 
 Preview do app no youtube: https://youtu.be/xqkmyU3SFDI
+![](https://i.ibb.co/NpqNgrq/image-2021-06-05-190535.png)
